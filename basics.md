@@ -29,7 +29,7 @@ bash
 
 login@corax ~/1_grunnleggende/1.2_Username $ scoreboard 80d32d56199a49d90fd489d139defd0c
 
-The response: "En hacker med et tøft brukernavn er bedre enn en uten." I feel personally called out. My hotel Wi-Fi is named "HackerNoise" – does that count?
+The response: "En hacker med et tøft brukernavn er bedre enn en uten." 
 
 Flagg: ETJ{80d32d56199a49d90fd489d139defd0c}
 ---
