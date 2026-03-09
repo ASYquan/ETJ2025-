@@ -17,7 +17,7 @@ login@corax ~/1_grunnleggende/1.1_Scoreboard $ scoreboard e4d8fc322417e82764c829
 And it worked. Okay. We're off. 
 
 Flagg: ETJ{e4d8fc322417e82764c82923b9eb4f80}
-----
+---
 
 ### 1.2 Username
 Learn how to use the `username` command to view or change your display name on the scoreboard website.
