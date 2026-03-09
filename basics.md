@@ -5,6 +5,20 @@ These are the introductory challenges from the E 2025 CTF. Each task introduces 
 ### 1.1 Scoreboard
 Learn how to use the `scoreboard` command to view unlocked challenges and submit flags.
 
+Okay, first task. They want us to use the scoreboard command. The LESMEG.md file says:
+
+    Gjør deg kjent med scoreboard-kommandoen. Denne bruker du for å se oversikt over oppgaver du har låst opp og kan løse, sammen med oppgaver du allerede har løst.
+
+The flag is literally... right there in the text. Like, just sitting there. ETJ{e4d8fc322417e82764c82923b9eb4f80}. I feel like this is a trap? But no, it's just the welcome mat.
+bash
+
+login@corax ~/1_grunnleggende/1.1_Scoreboard $ scoreboard e4d8fc322417e82764c82923b9eb4f80
+
+And it worked. Okay. We're off. 
+
+Flagg: ETJ{e4d8fc322417e82764c82923b9eb4f80}
+----
+
 ### 1.2 Username
 Learn how to use the `username` command to view or change your display name on the scoreboard website.
 
