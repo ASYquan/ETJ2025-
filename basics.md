@@ -1,6 +1,6 @@
 # Grunnleggende – Beginner Tasks
 
-These are the introductory challenges from the Cybertalent 2025 CTF. Each task introduces a basic concept.
+These are the introductory challenges from the E 2025 CTF. Each task introduces a basic concept.
 
 ### 1.1 Scoreboard
 Learn how to use the `scoreboard` command to view unlocked challenges and submit flags.
