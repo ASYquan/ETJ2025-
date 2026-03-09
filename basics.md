@@ -14,14 +14,25 @@ bash
 
 login@corax ~/1_grunnleggende/1.1_Scoreboard $ scoreboard e4d8fc322417e82764c82923b9eb4f80
 
-And it worked. Okay. We're off. 
-
+And it worked. 
 Flagg: ETJ{e4d8fc322417e82764c82923b9eb4f80}
 ---
 
 ### 1.2 Username
 Learn how to use the `username` command to view or change your display name on the scoreboard website.
 
+Same energy. The LESMEG.md file just hands me the flag:
+
+    Når du føler deg fornøyd kan du levere dette flagget for å fullføre oppgaven: 80d32d56199a49d90fd489d139defd0c
+
+bash
+
+login@corax ~/1_grunnleggende/1.2_Username $ scoreboard 80d32d56199a49d90fd489d139defd0c
+
+The response: "En hacker med et tøft brukernavn er bedre enn en uten." I feel personally called out. My hotel Wi-Fi is named "HackerNoise" – does that count?
+
+Flagg: ETJ{80d32d56199a49d90fd489d139defd0c}
+---
 ### 1.3 FAQ
 Find a flag hidden on the FAQ page of the CTF website.
 
